@@ -1,4 +1,4 @@
-# MIT License
+Certificate License
 
 Copyright © 2023 Mugisa Brian Cephas
 
