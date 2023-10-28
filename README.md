@@ -37,7 +37,7 @@ The Flutter Series 2023 was an engaging and informative series of events that co
 
 ## License
 
-This repository and its contents are licensed under *MIT LICENSE*. See the [LICENSE](LICENSE.md) file for more details.
+This repository and its contents are licensed under *MIT LICENSE*. See the [LICENSE](https://github.com/capps096github/certificates_flutter_series_23/blob/main/LICENSE.md) file for more details.
 
 Happy coding!
 
