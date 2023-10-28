@@ -41,4 +41,4 @@ This repository and its contents are licensed under *MIT LICENSE*. See the [LICE
 
 Happy coding!
 
-[GDSC MUK Logo]
+![GDSC](GDSC%20Bracket.png)
