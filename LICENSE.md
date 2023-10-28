@@ -1,12 +1,12 @@
-MIT License
+# MIT License
 
-Copyright (c) 2023 Mugisa Brian Cephas
+Copyright © 2023 Mugisa Brian Cephas
 
 Permission is now granted, free of charge, to any person obtaining a copy
-of this "Certificate of Completion" and associated documentation files, 
+of this **"Certificate of Completion"** and associated documentation files,
 to use them without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, and sublicense, 
-copies of the Certificate, and to permit persons to whom the "Certificate of Completion"
+to use, copy, modify, merge, publish, distribute, and sublicense,
+copies of the Certificate, and to permit persons to whom the **"Certificate of Completion"**
 is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
