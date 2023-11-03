@@ -13,14 +13,14 @@ Certificates are awarded to participants who successfully completed the course *
 
 | Name                     | PNG Certificate | PDF Certificate |
 |--------------------------|-----------------|-----------------|
-| Wasswa Brian             | [View C](#)      | [Link](#)      |
-| Natukunda Phionah        | [Link](#)      | [Link](#)      |
-| Magino Daniel            | [Link](#)      | [Link](#)      |
-| Keith Tugume Kaganda    | [Link](#)      | [Link](#)      |
-| MUWANGUZI ALVIN KIGGUNDU | [Link](#)      | [Link](#)      |
-| NTANDA NASSAR            | [Link](#)      | [Link](#)      |
-| LOUIS WESAMOYO           | [Link](#)      | [Link](#)      |
-| George Morris Okongo     | [Link](#)      | [Link](#)      |
+| Wasswa Brian             | [View Certificate][1]      | [Download Certificate PDF][9]      |
+| Natukunda Phionah        | [View Certificate][2]     | [Download Certificate PDF][10]     |
+| Magino Daniel            | [View Certificate][3]     | [Download Certificate PDF][11]     |
+| Keith Tugume Kaganda    | [View Certificate][4]     | [Download Certificate PDF][12]     |
+| MUWANGUZI ALVIN KIGGUNDU | [View Certificate][5]     | [Download Certificate PDF][13]     |
+| NTANDA NASSAR            | [View Certificate][6]     | [Download Certificate PDF][14]     |
+| LOUIS WESAMOYO           | [View Certificate][7]     | [Download Certificate PDF][15]     |
+| George Morris Okongo     | [View Certificate][8]     | [Download Certificate PDF][16]     |
 
 Please find the certificates corresponding to each participant above.
 
@@ -52,3 +52,23 @@ This repository and its contents are licensed under *MIT LICENSE*. See the [LICE
 Happy coding!
 
 ![GDSC](GDSC%20Bracket.png)
+
+<!-- Image Links according to order of names -->
+[1]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Wasswa%20Brian.png
+[2]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Natukunda%20Phionah.png
+[3]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Magino%20Daniel.png
+[4]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Keith%20Tugume%20Kaganda.png
+[5]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/MUWANGUZI%20ALVIN%20KIGGUNDU.png
+[6]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/NTANDA%20NASSAR.png
+[7]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/LOUIS%20WESAMOYO.png
+[8]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/George%20Morris%20Okongo.png
+
+<!-- PDF Links according to order of names -->
+[9]: pdf/Wasswa%20Brian.pdf
+[10]: pdf/Natukunda%20Phionah.pdf
+[11]: pdf/Magino%20Daniel.pdf
+[12]: pdf/Keith%20Tugume%20Kaganda.pdf
+[13]: pdf/MUWANGUZI%20ALVIN%20KIGGUNDU.pdf
+[14]: pdf/NTANDA%20NASSAR.pdf
+[15]: pdf/LOUIS%20WESAMOYO.pdf
+[16]: pdf/George%20Morris%20Okongo.pdf
