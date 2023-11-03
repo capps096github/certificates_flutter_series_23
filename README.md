@@ -7,17 +7,27 @@ Welcome to the official repository for certificates awarded during the Flutter S
 ![Sample Flutter Certificate](https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/Flutter%20Certificates.png)
 *Certificates look like this*
 
+## Participants Certificates
+
 Certificates are awarded to participants who successfully completed the course **Introduction to Cross-Platform App Development Using Flutter** on **4th November 2023**. Here is a list of the outstanding individuals who have achieved this milestone:
 
-1. [Participant's Name](Certificate_Link)
-2. [Participant's Name](Certificate_Link)
-3. [Participant's Name](Certificate_Link)
-... (and so on)
+| Name                     | PNG Certificate | PDF Certificate |
+|--------------------------|-----------------|-----------------|
+| Wasswa Brian             | [View C](#)      | [Link](#)      |
+| Natukunda Phionah        | [Link](#)      | [Link](#)      |
+| Magino Daniel            | [Link](#)      | [Link](#)      |
+| Keith Tugume Kaganda    | [Link](#)      | [Link](#)      |
+| MUWANGUZI ALVIN KIGGUNDU | [Link](#)      | [Link](#)      |
+| NTANDA NASSAR            | [Link](#)      | [Link](#)      |
+| LOUIS WESAMOYO           | [Link](#)      | [Link](#)      |
+| George Morris Okongo     | [Link](#)      | [Link](#)      |
+
+Please find the certificates corresponding to each participant above.
 
 Certificates are presented by:
 
-- **Instructor:** Cephas
-- **GDSC Lead:** Trevor
+- **Instructor:** [Mugisa Brian Cephas](https://twitter.com/xephas_official)
+- **GDSC Lead:** [Kato Trevor](https://twitter.com/KatoTrevor)
 
 ## How to Access Your Certificate
 
