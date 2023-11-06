@@ -24,6 +24,7 @@ Certificates are awarded to participants who successfully completed the course *
 | SSOZI BRANDON            | [View Certificate][17]     | [Download Certificate PDF][18]     |
 | NAMUTSI DIANAH           | [View Certificate][19]     | [Download Certificate PDF][20]     |
 | LUSWATA ANDREW           | [View Certificate][21]     | [Download Certificate PDF][22]     |
+|Keith Kaganda Tugume      | [View Certificate][23]     | [Download Certificate PDF][24]     |
 
 Please find the certificates corresponding to each participant above.
 
@@ -68,6 +69,7 @@ Happy coding!
 [17]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/SSOZI%20BRANDON.png
 [19]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/NAMUTSI%20DIANAH.png
 [21]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/LUSWATA%20ANDREW.png
+[23]: https://raw.githubusercontent.com/capps096github/certificates_flutter_series_23/main/images/Keith%20Kaganda%20Tugume.png
 
 <!-- PDF Links according to order of names -->
 [9]: pdf/Wasswa%20Brian.pdf
@@ -81,3 +83,4 @@ Happy coding!
 [18]: pdf/SSOZI%20BRANDON.pdf
 [20]: pdf/NAMUTSI%20DIANAH.pdf
 [22]: pdf/LUSWATA%20ANDREW.pdf
+[24]: pdf/Keith%20Kaganda%20Tugume.pdf
